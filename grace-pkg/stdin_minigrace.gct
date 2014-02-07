@@ -1,0 +1,11 @@
+path:
+ stdin_minigrace
+classes:
+public:
+confidential:
+fresh-methods:
+modules:
+ __pkg-temp
+ sys
+ PackageManager
+ io
